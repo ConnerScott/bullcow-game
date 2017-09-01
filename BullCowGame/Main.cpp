@@ -48,7 +48,7 @@ void PrintIntro()
 	std::cout << "    /--------( )      ( ) ---------\\      " << std::endl;
 	std::cout << "   /| BULL  |            |  Cow   | \\     " << std::endl;
 	std::cout << "    |------ |            |--------|			" << std::endl;
-	std::cout << "    |       |            |        |         " << std::endl;
+	std::cout << "    |       |            |      {}|         " << std::endl;
 	std::cout << "    ^       ^            ^        ^         " << std::endl;
 	
 	std::cout << " Can you guess the " << BCGame.GetHiddenWordLength();

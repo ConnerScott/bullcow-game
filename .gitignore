@@ -1,0 +1,4 @@
+#visual c++ cache files 
+ipch/
+*.opendb
+*.opensdf
